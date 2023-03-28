@@ -1,5 +1,5 @@
 ![logo](https://github.com/MAHIN-XD/MAHIN-XD/blob/main/banner.jpg)
-<h1 align="center">Hi 👋, I'm Mahin Hasan</h1>
+<h1 align="center">Mahin Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <img aling="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/C4E12AQHhfpP2slLoXw/article-cover_image-shrink_600_2000/0/1578791251071?e=2147483647&v=beta&t=z0mDGgtn6FZAR_FAWN0lu2QP80ugvAfOnWcJ3acz7Rk">
