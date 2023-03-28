@@ -1,5 +1,5 @@
 ![logo](https://github.com/MAHIN-XD/MAHIN-XD/blob/main/banner.jpg)
- 🔥WELCOME TO MY PROFILE🔥
+🔥🔥WELCOME TO MY PROFILE🔥🔥
 <h1 align="center">Mahin Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
