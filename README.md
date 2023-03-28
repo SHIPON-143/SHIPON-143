@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/MAHIN-XD/MAHIN-XD/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Mahin Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
