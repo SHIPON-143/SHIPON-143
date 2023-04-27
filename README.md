@@ -43,7 +43,7 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- FACEBOOK PAGE : [MR CYBER](https://www.facebook.com/profile.php?id=100085960149625)
+- FACEBOOK PAGE : [CRACK 404](https://www.facebook.com/profile.php?id=100085960149625)
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
