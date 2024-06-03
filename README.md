@@ -39,7 +39,7 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- FACEBOOK : [SHIPON SARKAR](https://www.facebook.com/mahin.hasan.404)
+- FACEBOOK : [SHIPON SARKAR](https://www.facebook.com/its.me.shipon)
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
