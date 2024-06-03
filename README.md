@@ -1,4 +1,4 @@
-![logo](banner.jpg)
+![logo](banner.png)
 <p align="center"><img src="https://img.shields.io/badge/%20 BANGLADESH-SPAMMAR AND PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
  
 <h3 align="center">
